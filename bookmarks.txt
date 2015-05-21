@@ -1,0 +1,41 @@
+
+/* Turning Mac Minis into Agile Mac OS X ESXI Hosts: Getting to Bare Metal */
+https://blog.newrelic.com/2014/06/12/turning-mac-minis-agile-mac-os-x-esxi-hosts-getting-baremetal/
+
+/* Connecting MacBook to Cisco Router for configuration */
+https://www.youtube.com/watch?v=JcLKeFjEJco
+
+/* Хакерские конкурсы на PHDays–V: Capture The Flag, Critical Infrastructure Attack, «Конкурентная разведка» */
+https://xakep.ru/2015/05/08/hack-quests-phdays-v/
+
+/* http://www.engadget.com/2015/03/18/target-hacking-settlement/ */
+Target's proposed data breach settlement pays victims up to $10k
+
+/* codingbat */
+http://codingbat.com/
+
+/* html excercises */
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=html%20exercises
+
+/* qa */
+https://www.youtube.com/user/qaeversity/playlists
+
+/* istqb certification */
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=istqb
+
+/* hackerrank */
+https://www.hackerrank.com/domains
+
+/* emmet tutorial zen coding */
+http://www.hongkiat.com/blog/html-css-faster-emmet/
+
+/* emmet cheat sheet */
+http://docs.emmet.io/cheat-sheet/
+
+/* hadoop */
+http://hortonworks.com/hdp/
+http://devops-academy.com/
+
+/* WATCH THIS IF YOU WANT TO BECOME A WEB DEVELOPER! - Web Development Career advice */
+https://www.youtube.com/watch?v=pB0WvcxTbCA&list=PLoYCgNOIyGAB0_YBfdNP5oqAD98HtAQqL&index=6&feature=iv&src_vid=zXqs6X0lzKI&annotation_id=annotation_1494970401
+https://coggle.it/diagram/52e97f8c5a143de239005d1b/56212c4e4c505e0045c0d3bda59b77e5977c2c9bd40f3fd0b451bdcf8da4aa52
