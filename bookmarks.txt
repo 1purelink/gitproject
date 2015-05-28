@@ -1,5 +1,12 @@
+/* Jmeter */
+
+http://jmeter.apache.org
+
 /* Cool JavaScript stuff */
 http://bl.ocks.org/mbostock/1044242
+
+/* Become a Java programmer without a college degree */
+http://www.techrepublic.com/blog/career-management/become-a-java-programmer-without-a-college-degree/
 
 /* Turning Mac Minis into Agile Mac OS X ESXI Hosts: Getting to Bare Metal */
 https://blog.newrelic.com/2014/06/12/turning-mac-minis-agile-mac-os-x-esxi-hosts-getting-baremetal/
